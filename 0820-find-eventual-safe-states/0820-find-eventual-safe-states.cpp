@@ -1,54 +1,44 @@
 class Solution {
 public:
-    bool dfs(
-        int node, 
-        vector<vector<int>>& graph, 
-        unordered_map<int, bool> &isSafeNode,
-        unordered_map<int, bool> &visited
+    bool isSafe(
+        int node, vector<vector<int>> &graph, 
+        vector<int> &isSafeNode, vector<bool> &vis
     ) {
-        visited[node] = true;
-
-        if(isSafeNode.find(node) != isSafeNode.end())
+        if(isSafeNode[node] != -1)
             return isSafeNode[node];
-        
+
+        vis[node] = true;
+
         if(graph[node].size() == 0) {
-            isSafeNode[node] = true;
+            isSafeNode[node] = 1;
             return true;
         }
 
-        vector<int> neighbors = graph[node];
-        bool isSafe = true;
+        bool isNodeSafe = true;
 
-        for(int i=0; i<neighbors.size(); i++) {
-            int neighbor = neighbors[i];
-
-            if(isSafeNode.find(neighbor) != isSafeNode.end()) {
-                isSafe = isSafe && isSafeNode[neighbor];
-                continue;
+        for(int ni: graph[node]) {
+            if(vis[ni] && isSafeNode[ni] == -1) {
+                isNodeSafe = false;
+                break;
             }
 
-            if(visited[neighbor]) {
-                isSafe = false;
-                continue;
-            }
-
-            isSafe = isSafe && dfs(neighbor, graph, isSafeNode, visited);
+            isNodeSafe &= isSafe(ni, graph, isSafeNode, vis);
         }
 
-        isSafeNode[node] = isSafe;
-        return isSafe;
+        return isSafeNode[node] = isNodeSafe;
     }
 
     vector<int> eventualSafeNodes(vector<vector<int>>& graph) {
-        unordered_map<int, bool> isSafeNode;
-        unordered_map<int, bool> visited;
+        int n = graph.size();
         vector<int> res;
+        vector<int> isSafeNode(n, -1);
+        vector<bool> vis(n, false);
 
-        for(int i=0; i<graph.size(); i++) {
-            if(dfs(i, graph, isSafeNode, visited))
-                res.push_back(i);
+        for(int i=0; i<n; i++) {
+            bool isCurrSafe = isSafe(i, graph, isSafeNode, vis);
+            if(isCurrSafe) res.push_back(i);
         }
-
+        
         return res;
     }
 };
