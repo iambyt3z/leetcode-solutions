@@ -1,60 +1,41 @@
 class Solution {
 public:
-    unordered_map<int, int> calcPrereq(
-        int course,
-        vector<bool> &visited,
-        unordered_map<int, vector<int>> &prereq,
-        unordered_map<int, unordered_map<int, int>> &allPrereqs
+    bool dfs(
+        int curr, int target, 
+        vector<vector<int>> &prereq, 
+        vector<vector<int>> &dp
     ) {
-        if(visited[course])
-            return allPrereqs[course];
+        if(dp[curr][target] != -1)
+            return dp[curr][target];
 
-        visited[course] = true;
-        unordered_map<int, int> prereqForCourse;
-        vector<int> pr = prereq[course];
+        if(curr == target)
+            return true;
 
-        for(int i=0; i<pr.size(); i++) {
-            prereqForCourse[pr[i]]++;
-
-            unordered_map<int, int> prOfPr = calcPrereq(pr[i], visited, prereq, allPrereqs);
-
-            for(auto it=prOfPr.begin(); it!=prOfPr.end(); it++)
-                prereqForCourse[it->first]++;
+        bool res = false;
+        for(int next: prereq[curr]) {
+            bool ri = dfs(next, target, prereq, dp);
+            res |= ri;
         }
 
-        allPrereqs[course] = prereqForCourse;
-        return prereqForCourse;
+        return dp[curr][target] = res;
     }
 
-    vector<bool> checkIfPrerequisite(
-        int numCourses, 
-        vector<vector<int>>& prerequisites, 
-        vector<vector<int>>& queries
-    ) {
-        vector<bool> completed(numCourses, false);
-        vector<bool> visited(numCourses, false);
-        unordered_map<int, unordered_map<int, int>> allPrereqs;
+    vector<bool> checkIfPrerequisite(int n, vector<vector<int>>& prerequisites, vector<vector<int>>& queries) {
+        vector<vector<int>> prereq(n, vector<int>());
 
-        unordered_map<int, vector<int>> prereq;
         for(int i=0; i<prerequisites.size(); i++) {
-            if(prereq.find(prerequisites[i][1]) == prereq.end())
-                prereq[prerequisites[i][1]] = {};
-
-            prereq[prerequisites[i][1]].push_back(prerequisites[i][0]);
+            int u = prerequisites[i][0];
+            int v = prerequisites[i][1];
+            prereq[u].push_back(v);
         }
-
+        
         vector<bool> res;
-        for(int i=0; i<queries.size(); i++) {
-            int u = queries[i][0], v = queries[i][1];
+        vector<vector<int>> dp(n, vector<int>(n, -1));
 
-            if(allPrereqs.find(v) != allPrereqs.end()) {
-                unordered_map<int, int> pr = allPrereqs[v];
-                res.push_back( (pr.find(u) != pr.end()) );
-                continue;
-            }
-
-            unordered_map<int, int> pr = calcPrereq(v, visited, prereq, allPrereqs);
-            res.push_back( (pr.find(u) != pr.end()) );
+        for(auto q: queries) {
+            int src = q[0], target = q[1];
+            bool ri = dfs(src, target, prereq, dp);
+            res.push_back(ri);
         }
 
         return res;
