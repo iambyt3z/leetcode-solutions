@@ -1,12 +1,10 @@
-#include <vector>
-#include <unordered_set>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
 public:
-    int dfs(int i, int j, int n, int id, vector<vector<int>>& grid, vector<vector<int>>& islandId) {
+    int dfs(
+        int i, int j, int n, int id, 
+        vector<vector<int>> &grid, 
+        vector<vector<int>> &islandId
+    ) {
         islandId[i][j] = id;
         int res = 1;
         vector<int> dx = {1, -1, 0, 0};
@@ -21,10 +19,10 @@ public:
         return res;
     }
 
-    int largestIsland(vector<vector<int>>& grid) {
+    int largestIsland(vector<vector<int>> &grid) {
         int n = grid.size();
         vector<vector<int>> islandId(n, vector<int>(n, -1));
-        vector<int> areas = {0}; // areas[0] is for water (id 0)
+        vector<int> areas = {0};
         int id = 1;
 
         for (int i = 0; i < n; ++i) {
