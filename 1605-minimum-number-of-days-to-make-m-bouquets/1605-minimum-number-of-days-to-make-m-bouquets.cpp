@@ -4,8 +4,6 @@ public:
         int n = bloomDay.size();
         int tmp = k;
 
-        // cout << "max_day = " << max_day << endl;
-
         for(int i=0; i<n; i++) {
             if(bloomDay[i] > max_day) {
                 tmp = k;
@@ -18,8 +16,6 @@ public:
                 m--;
                 tmp = k;
             }
-
-            // cout << i << " " << m << endl;
         }
 
         return (m <= 0);
