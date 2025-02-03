@@ -15,6 +15,7 @@ Collection of LeetCode questions solved
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/iambyt3z/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3429-special-array-i) |
 ## Depth-First Search
 |  |
