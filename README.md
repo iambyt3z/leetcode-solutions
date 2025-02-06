@@ -9,6 +9,7 @@ Collection of LeetCode questions solved
 | [0084-largest-rectangle-in-histogram](https://github.com/iambyt3z/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iambyt3z/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0854-making-a-large-island](https://github.com/iambyt3z/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [1364-tuple-with-same-product](https://github.com/iambyt3z/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/iambyt3z/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/iambyt3z/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iambyt3z/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -54,6 +55,7 @@ Collection of LeetCode questions solved
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/iambyt3z/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/iambyt3z/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 ## Graph
 |  |
@@ -107,4 +109,8 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iambyt3z/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Hash Table
+|  |
+| ------- |
+| [1364-tuple-with-same-product](https://github.com/iambyt3z/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 <!---LeetCode Topics End-->
