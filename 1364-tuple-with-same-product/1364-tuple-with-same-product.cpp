@@ -1,41 +1,41 @@
 class Solution {
 public:
     int tupleSameProduct(vector<int>& nums) {
-        int numsLength = nums.size();
-        sort(nums.begin(), nums.end());
+        int n = nums.size();
+        vector<int> products;
 
-        int totalNumberOfTuples = 0;
+        for(int i=0; i<n-1; i++)
+            for(int j=i+1; j<n; j++)
+                products.push_back(nums[i] * nums[j]);
 
-        // Iterate over all possible values for 'a'
-        for (int aIndex = 0; aIndex < numsLength; aIndex++) {
-            // Iterate over all possible values for 'b', starting from the end
-            // of the array
-            for (int bIndex = numsLength - 1; bIndex >= aIndex + 1; bIndex--) {
-                int product = nums[aIndex] * nums[bIndex];
+        sort(products.begin(), products.end());
+        int lastProd = products[0];
+        int count = 1;
+        int res = 0;
 
-                // Use a hash set to store possible values of 'd'
-                unordered_set<int> possibleDValues;
-
-                // Iterate over all possible values for 'c' between 'a' and 'b'
-                for (int cIndex = aIndex + 1; cIndex < bIndex; cIndex++) {
-                    // Check if the product is divisible by nums[cIndex]
-                    if (product % nums[cIndex] == 0) {
-                        int dValue = product / nums[cIndex];
-
-                        // If 'dValue' is in the set, increment the tuple count
-                        // by 8
-                        if (possibleDValues.find(dValue) !=
-                            possibleDValues.end()) {
-                            totalNumberOfTuples += 8;
-                        }
-
-                        // Add nums[cIndex] to the set for future checks
-                        possibleDValues.insert(nums[cIndex]);
-                    }
-                }
+        for(int i=1; i<products.size(); i++) {
+            if(lastProd == products[i]) {
+                count++;
+                continue;
             }
+
+            if(count == 1) {
+                lastProd = products[i];
+                count = 1;
+                continue;
+            }
+
+            int numOfPairs = (count - 1) * count / 2;
+            res += 8 * numOfPairs;
+            lastProd = products[i];
+            count = 1;
         }
 
-        return totalNumberOfTuples;
+        if(count != 1) {
+            int numOfPairs = (count - 1) * count / 2;
+            res += 8 * numOfPairs;
+        }
+
+        return res;
     }
 };
