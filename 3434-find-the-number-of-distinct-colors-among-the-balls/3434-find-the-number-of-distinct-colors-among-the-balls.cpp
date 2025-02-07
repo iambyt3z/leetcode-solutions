@@ -2,7 +2,7 @@ class Solution {
 public:
     vector<int> queryResults(int limit, vector<vector<int>>& q) {
         unordered_map<int, int> balls;
-        unordered_map<int, set<int>> colors;
+        unordered_map<int, unordered_set<int>> colors;
         int n = q.size();
         vector<int> res;
 
