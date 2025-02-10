@@ -83,6 +83,7 @@ Collection of LeetCode questions solved
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/iambyt3z/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
+| [3447-clear-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -125,6 +126,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iambyt3z/leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3447-clear-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Design
 |  |
 | ------- |
@@ -133,4 +135,8 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/iambyt3z/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
+## String
+|  |
+| ------- |
+| [3447-clear-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
