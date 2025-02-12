@@ -16,6 +16,7 @@ Collection of LeetCode questions solved
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/iambyt3z/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/iambyt3z/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -77,6 +78,7 @@ Collection of LeetCode questions solved
 ## Sorting
 |  |
 | ------- |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Stack
 |  |
@@ -104,6 +106,7 @@ Collection of LeetCode questions solved
 | ------- |
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [2434-design-a-number-container-system](https://github.com/iambyt3z/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +125,7 @@ Collection of LeetCode questions solved
 | [1364-tuple-with-same-product](https://github.com/iambyt3z/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [2434-design-a-number-container-system](https://github.com/iambyt3z/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/iambyt3z/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iambyt3z/leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Simulation
 |  |
