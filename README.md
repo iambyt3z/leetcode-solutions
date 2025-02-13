@@ -163,6 +163,7 @@ Collection of LeetCode questions solved
 ## Linked List
 |  |
 | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/iambyt3z/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Greedy
 |  |
@@ -173,4 +174,8 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/iambyt3z/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
