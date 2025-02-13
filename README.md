@@ -126,6 +126,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iambyt3z/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/iambyt3z/leetcode-solutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Memoization
 |  |
