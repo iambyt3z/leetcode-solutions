@@ -1,7 +1,7 @@
 class Solution {
 public:
     int fact(int n) {
-        if(n == 0 || n == 1)
+        if(n == 0)
             return 1;
         return n * fact(n-1);
     }
@@ -38,8 +38,6 @@ public:
 
             sort(tmp.begin(), tmp.end());
             if(tmp.length() == 0 || umap.count(tmp) != 0) continue;
-
-            // cout << "tmp = " << tmp << endl;
 
             int ri = helper(tmp);
             umap[tmp] = ri;
