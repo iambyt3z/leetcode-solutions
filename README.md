@@ -95,6 +95,7 @@ Collection of LeetCode questions solved
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iambyt3z/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -166,6 +167,7 @@ Collection of LeetCode questions solved
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/iambyt3z/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iambyt3z/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/3447-clear-digits) |
 ## Linked List
 |  |
@@ -177,6 +179,7 @@ Collection of LeetCode questions solved
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -197,5 +200,6 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/iambyt3z/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
