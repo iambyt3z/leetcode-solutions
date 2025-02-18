@@ -25,7 +25,7 @@ public:
 
         for(
             int curr = prev + dir; 
-            ( curr<=9 && curr >= 1 ); 
+            curr <= 9 && curr >= 1; 
             curr += dir
         ) {
             if(!available[curr])
