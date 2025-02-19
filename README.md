@@ -166,6 +166,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/iambyt3z/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/iambyt3z/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/iambyt3z/leetcode-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/3447-clear-digits) |
@@ -200,6 +201,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [1160-letter-tile-possibilities](https://github.com/iambyt3z/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/iambyt3z/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 <!---LeetCode Topics End-->
