@@ -112,6 +112,7 @@ Collection of LeetCode questions solved
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/iambyt3z/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iambyt3z/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
