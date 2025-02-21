@@ -36,6 +36,7 @@ Collection of LeetCode questions solved
 | [0684-redundant-connection](https://github.com/iambyt3z/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/iambyt3z/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [0854-making-a-large-island](https://github.com/iambyt3z/leetcode-solutions/tree/master/0854-making-a-large-island) |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/iambyt3z/leetcode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/iambyt3z/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/iambyt3z/leetcode-solutions/tree/master/1558-course-schedule-iv) |
@@ -219,9 +220,11 @@ Collection of LeetCode questions solved
 ## Tree
 |  |
 | ------- |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/iambyt3z/leetcode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
+| [1092-maximum-difference-between-node-and-ancestor](https://github.com/iambyt3z/leetcode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
