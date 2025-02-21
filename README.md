@@ -20,6 +20,7 @@ Collection of LeetCode questions solved
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
+| [2240-intervals-between-identical-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2448-count-number-of-bad-pairs](https://github.com/iambyt3z/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/iambyt3z/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -148,6 +149,7 @@ Collection of LeetCode questions solved
 | [1364-tuple-with-same-product](https://github.com/iambyt3z/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
+| [2240-intervals-between-identical-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2434-design-a-number-container-system](https://github.com/iambyt3z/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/iambyt3z/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -205,6 +207,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/iambyt3z/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [2240-intervals-between-identical-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/2240-intervals-between-identical-elements) |
 ## Backtracking
 |  |
 | ------- |
