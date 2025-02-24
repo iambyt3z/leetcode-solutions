@@ -27,6 +27,7 @@ Collection of LeetCode questions solved
 | [2448-count-number-of-bad-pairs](https://github.com/iambyt3z/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/iambyt3z/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -43,6 +44,7 @@ Collection of LeetCode questions solved
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/iambyt3z/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/iambyt3z/leetcode-solutions/tree/master/1558-course-schedule-iv) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -53,6 +55,7 @@ Collection of LeetCode questions solved
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/iambyt3z/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/iambyt3z/leetcode-solutions/tree/master/1558-course-schedule-iv) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/iambyt3z/leetcode-solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Union Find
 |  |
@@ -82,6 +85,7 @@ Collection of LeetCode questions solved
 | [0684-redundant-connection](https://github.com/iambyt3z/leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/iambyt3z/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/iambyt3z/leetcode-solutions/tree/master/1558-course-schedule-iv) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/iambyt3z/leetcode-solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
 |  |
@@ -232,6 +236,7 @@ Collection of LeetCode questions solved
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/iambyt3z/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1092-maximum-difference-between-node-and-ancestor](https://github.com/iambyt3z/leetcode-solutions/tree/master/1092-maximum-difference-between-node-and-ancestor) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
