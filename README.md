@@ -18,6 +18,7 @@ Collection of LeetCode questions solved
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/iambyt3z/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/iambyt3z/leetcode-solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/iambyt3z/leetcode-solutions/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
@@ -152,6 +153,7 @@ Collection of LeetCode questions solved
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/iambyt3z/leetcode-solutions/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1849-maximum-absolute-sum-of-any-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Memoization
 |  |
 | ------- |
