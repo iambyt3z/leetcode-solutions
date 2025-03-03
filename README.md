@@ -26,6 +26,7 @@ Collection of LeetCode questions solved
 | [1927-maximum-ascending-subarray-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [2240-intervals-between-identical-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/2240-intervals-between-identical-elements) |
+| [2342-minimum-average-difference](https://github.com/iambyt3z/leetcode-solutions/tree/master/2342-minimum-average-difference) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/iambyt3z/leetcode-solutions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2393-match-substring-after-replacement](https://github.com/iambyt3z/leetcode-solutions/tree/master/2393-match-substring-after-replacement) |
 | [2448-count-number-of-bad-pairs](https://github.com/iambyt3z/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions solved
 | [1477-product-of-the-last-k-numbers](https://github.com/iambyt3z/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2240-intervals-between-identical-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/2240-intervals-between-identical-elements) |
+| [2342-minimum-average-difference](https://github.com/iambyt3z/leetcode-solutions/tree/master/2342-minimum-average-difference) |
 ## Backtracking
 |  |
 | ------- |
