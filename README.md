@@ -9,6 +9,7 @@ Collection of LeetCode questions solved
 | [0084-largest-rectangle-in-histogram](https://github.com/iambyt3z/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iambyt3z/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0805-escape-the-ghosts](https://github.com/iambyt3z/leetcode-solutions/tree/master/0805-escape-the-ghosts) |
 | [0854-making-a-large-island](https://github.com/iambyt3z/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/iambyt3z/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/iambyt3z/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/iambyt3z/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0805-escape-the-ghosts](https://github.com/iambyt3z/leetcode-solutions/tree/master/0805-escape-the-ghosts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iambyt3z/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
