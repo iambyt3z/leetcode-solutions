@@ -36,6 +36,7 @@ Collection of LeetCode questions solved
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/iambyt3z/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2551-apply-operations-to-an-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iambyt3z/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/iambyt3z/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -90,6 +91,7 @@ Collection of LeetCode questions solved
 | [1364-tuple-with-same-product](https://github.com/iambyt3z/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/iambyt3z/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [2448-count-number-of-bad-pairs](https://github.com/iambyt3z/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Graph
 |  |
 | ------- |
@@ -160,6 +162,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/iambyt3z/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Dynamic Programming
 |  |
 | ------- |
