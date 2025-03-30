@@ -6,6 +6,7 @@ Collection of LeetCode questions solved
 ## Array
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iambyt3z/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iambyt3z/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -111,6 +112,7 @@ Collection of LeetCode questions solved
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1129-longest-string-chain](https://github.com/iambyt3z/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/iambyt3z/leetcode-solutions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
@@ -267,6 +269,7 @@ Collection of LeetCode questions solved
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [1160-letter-tile-possibilities](https://github.com/iambyt3z/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/iambyt3z/leetcode-solutions/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [2107-find-unique-binary-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
