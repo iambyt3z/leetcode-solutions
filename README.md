@@ -29,6 +29,7 @@ Collection of LeetCode questions solved
 | [1927-maximum-ascending-subarray-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2107-find-unique-binary-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [2240-intervals-between-identical-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/2240-intervals-between-identical-elements) |
+| [2262-solving-questions-with-brainpower](https://github.com/iambyt3z/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2342-minimum-average-difference](https://github.com/iambyt3z/leetcode-solutions/tree/master/2342-minimum-average-difference) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/iambyt3z/leetcode-solutions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2393-match-substring-after-replacement](https://github.com/iambyt3z/leetcode-solutions/tree/master/2393-match-substring-after-replacement) |
@@ -177,6 +178,7 @@ Collection of LeetCode questions solved
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2262-solving-questions-with-brainpower](https://github.com/iambyt3z/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 ## Memoization
 |  |
 | ------- |
