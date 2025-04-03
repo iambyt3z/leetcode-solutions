@@ -40,6 +40,7 @@ Collection of LeetCode questions solved
 | [2564-most-profitable-path-in-a-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iambyt3z/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/iambyt3z/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
