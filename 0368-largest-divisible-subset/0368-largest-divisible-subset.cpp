@@ -27,7 +27,7 @@ public:
         sort(nums.rbegin(), nums.rend());
         memset(dp, -1, sizeof(dp));
         memset(choice, false, sizeof(choice));
-        cout << solve(0, 0, n, nums) << endl << endl;
+        solve(0, 0, n, nums);
         vector<int> res;
 
         int i=0, j=0;
