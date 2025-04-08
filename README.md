@@ -53,6 +53,7 @@ Collection of LeetCode questions solved
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iambyt3z/leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/iambyt3z/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -217,6 +218,7 @@ Collection of LeetCode questions solved
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iambyt3z/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/iambyt3z/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iambyt3z/leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/iambyt3z/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Simulation
 |  |
 | ------- |
