@@ -1,29 +1,35 @@
 class Solution {
 public:
-    int minNumberOperations(vector<int>& target) {
-        int n = target.size();
-        stack<int> sl, sr;
-        vector<int> left(n, -1), right(n, -1);
-
+    int minNumberOperations(vector<int>& s) {
+        int n = s.size();
+        vector<int> left(n, 0), right(n, 0);
+        stack<int> leftS, rightS;
+        
         for(int i=0; i<n; i++) {
-            while(sl.size() && sl.top() >= target[i]) sl.pop();
-            if(sl.size()) left[i] = sl.top();
+            while(leftS.size() && s[i] <= leftS.top())
+                leftS.pop();
+                
+            if(leftS.size()) left[i] = leftS.top();
             else left[i] = 1;
-            sl.push(target[i]);
+            
+            leftS.push(s[i]);
         }
-
+        
         for(int i=n-1; i>=0; i--) {
-            while(sr.size() && sr.top() > target[i]) sr.pop();
-            if(sr.size()) right[i] = sr.top();
+            while(rightS.size() && s[i] < rightS.top())
+                rightS.pop();
+                
+            if(rightS.size()) right[i] = rightS.top();
             else right[i] = 1;
-            sr.push(target[i]);
+            
+            rightS.push(s[i]);
         }
-
-        int res = 0;
-
+        
+        long res = 0;
+        
         for(int i=0; i<n; i++)
-            res += min(target[i] - left[i], target[i] - right[i]);
-
-        return res+1;
+            res += (long) min(s[i] - left[i], s[i] - right[i]);
+        
+        return res + 1;
     }
 };
