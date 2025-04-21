@@ -32,6 +32,7 @@ Collection of LeetCode questions solved
 | [1993-sum-of-all-subset-xor-totals](https://github.com/iambyt3z/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2107-find-unique-binary-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [2240-intervals-between-identical-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/2240-intervals-between-identical-elements) |
+| [2249-count-the-hidden-sequences](https://github.com/iambyt3z/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/iambyt3z/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2342-minimum-average-difference](https://github.com/iambyt3z/leetcode-solutions/tree/master/2342-minimum-average-difference) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/iambyt3z/leetcode-solutions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
@@ -282,6 +283,7 @@ Collection of LeetCode questions solved
 | [1477-product-of-the-last-k-numbers](https://github.com/iambyt3z/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2240-intervals-between-identical-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/2240-intervals-between-identical-elements) |
+| [2249-count-the-hidden-sequences](https://github.com/iambyt3z/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2342-minimum-average-difference](https://github.com/iambyt3z/leetcode-solutions/tree/master/2342-minimum-average-difference) |
 | [3643-zero-array-transformation-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
