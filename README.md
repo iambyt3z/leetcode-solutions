@@ -164,6 +164,7 @@ Collection of LeetCode questions solved
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/iambyt3z/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/iambyt3z/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/iambyt3z/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/iambyt3z/leetcode-solutions/tree/master/2649-count-total-number-of-colored-cells) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions solved
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/iambyt3z/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/iambyt3z/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Memoization
 |  |
 | ------- |
@@ -328,8 +330,13 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/iambyt3z/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/iambyt3z/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 ## Enumeration
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/iambyt3z/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+## Number Theory
+|  |
+| ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/iambyt3z/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
 <!---LeetCode Topics End-->
