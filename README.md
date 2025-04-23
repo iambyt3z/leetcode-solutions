@@ -161,6 +161,7 @@ Collection of LeetCode questions solved
 | [0805-escape-the-ghosts](https://github.com/iambyt3z/leetcode-solutions/tree/master/0805-escape-the-ghosts) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iambyt3z/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1500-count-largest-group](https://github.com/iambyt3z/leetcode-solutions/tree/master/1500-count-largest-group) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/iambyt3z/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -212,6 +213,7 @@ Collection of LeetCode questions solved
 | [1364-tuple-with-same-product](https://github.com/iambyt3z/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iambyt3z/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1500-count-largest-group](https://github.com/iambyt3z/leetcode-solutions/tree/master/1500-count-largest-group) |
 | [2107-find-unique-binary-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [2240-intervals-between-identical-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2393-match-substring-after-replacement](https://github.com/iambyt3z/leetcode-solutions/tree/master/2393-match-substring-after-replacement) |
