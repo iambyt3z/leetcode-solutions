@@ -12,9 +12,6 @@ public:
             int b1 = a - k;
             int b2 = a - k + m;
 
-            // cout << prefix << " ";
-            // cout << a << " " << b1 << " " << b2 << endl;
-
             res += (b1 >= 0) * cnt[b1] + (b2 >= 0) * cnt[b2];
             cnt[a]++;
         }
