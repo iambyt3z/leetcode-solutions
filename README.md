@@ -40,6 +40,7 @@ Collection of LeetCode questions solved
 | [2448-count-number-of-bad-pairs](https://github.com/iambyt3z/leetcode-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/iambyt3z/leetcode-solutions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/iambyt3z/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2551-apply-operations-to-an-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -332,6 +333,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iambyt3z/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/iambyt3z/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [3483-alternating-groups-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3483-alternating-groups-ii) |
 ## Combinatorics
@@ -347,4 +349,12 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/iambyt3z/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+## Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/iambyt3z/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Monotonic Queue
+|  |
+| ------- |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/iambyt3z/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 <!---LeetCode Topics End-->
