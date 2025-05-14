@@ -29,9 +29,12 @@ public:
         vector<vector<long long>> dp(26, vector<long long>(t+1, -1));
         int res = 0;
 
+        for(int i=0; i<26; i++)
+            processDp(i, t, nums, dp);
+
         for(int i=0; i<s.length(); i++) {
             int chi = (int) (s[i] - 'a');
-            int ri = processDp(chi, t, nums, dp);
+            int ri = dp[chi][t];
             res = (res + ri) % mod;
         }
 
