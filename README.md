@@ -47,6 +47,7 @@ Collection of LeetCode questions solved
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/iambyt3z/leetcode-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2915-count-of-interesting-subarrays](https://github.com/iambyt3z/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
@@ -206,6 +207,7 @@ Collection of LeetCode questions solved
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2262-solving-questions-with-brainpower](https://github.com/iambyt3z/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/iambyt3z/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions solved
 | [2107-find-unique-binary-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [2393-match-substring-after-replacement](https://github.com/iambyt3z/leetcode-solutions/tree/master/2393-match-substring-after-replacement) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3447-clear-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
