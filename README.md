@@ -7,6 +7,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/iambyt3z/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iambyt3z/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iambyt3z/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/iambyt3z/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
@@ -131,6 +132,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0075-sort-colors](https://github.com/iambyt3z/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/iambyt3z/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1129-longest-string-chain](https://github.com/iambyt3z/leetcode-solutions/tree/master/1129-longest-string-chain) |
@@ -291,6 +293,7 @@ Collection of LeetCode questions solved
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/iambyt3z/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1129-longest-string-chain](https://github.com/iambyt3z/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [2551-apply-operations-to-an-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/2551-apply-operations-to-an-array) |
