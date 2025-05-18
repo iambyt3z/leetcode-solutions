@@ -1,5 +1,7 @@
 class Solution {
 public:
+    vector<vector<int>> dp;
+
     string numToString(int n, int len) {
         string res = "";
         while(len) {
@@ -41,8 +43,6 @@ public:
         return res;
     }
 
-    vector<vector<int>> dp;
-
     int solve(int i, int prev_row, int n, vector<string> &valids) {
         if(i == n) return 1;
 
@@ -53,8 +53,9 @@ public:
         for(int ind=0; ind<valids.size(); ind++) {
             string prev_row_bitmask = valids[prev_row];
             string curr_row_bitmask = valids[ind];
+            bool valid = isValid(prev_row_bitmask, curr_row_bitmask);
 
-            if(i != 0 && !isValid(prev_row_bitmask, curr_row_bitmask))
+            if(i != 0 && !valid)
                 continue;
 
             res = (res + solve(i+1, ind, n, valids)) % (1000000007);
