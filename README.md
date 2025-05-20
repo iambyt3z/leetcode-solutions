@@ -61,6 +61,7 @@ Collection of LeetCode questions solved
 | [3429-special-array-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/iambyt3z/leetcode-solutions/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3483-alternating-groups-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3483-alternating-groups-ii) |
+| [3639-zero-array-transformation-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/iambyt3z/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Depth-First Search
@@ -320,6 +321,7 @@ Collection of LeetCode questions solved
 | [2249-count-the-hidden-sequences](https://github.com/iambyt3z/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
 | [2342-minimum-average-difference](https://github.com/iambyt3z/leetcode-solutions/tree/master/2342-minimum-average-difference) |
 | [2915-count-of-interesting-subarrays](https://github.com/iambyt3z/leetcode-solutions/tree/master/2915-count-of-interesting-subarrays) |
+| [3639-zero-array-transformation-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3639-zero-array-transformation-i) |
 | [3643-zero-array-transformation-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Backtracking
 |  |
