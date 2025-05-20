@@ -5,8 +5,8 @@ public:
         int prefix = 0;
         vector<int> v(n+1, 0);
 
-        for(auto &q: queries) {
-            int l = q[0], r = q[1];
+        for(int i=0; i<queries.size(); i++) {
+            int l = queries[i][0], r = queries[i][1];
             v[l]++; v[r+1]--;
         }
 
