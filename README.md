@@ -7,6 +7,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/0047-permutations-ii) |
+| [0073-set-matrix-zeroes](https://github.com/iambyt3z/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/iambyt3z/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iambyt3z/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iambyt3z/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -101,6 +102,7 @@ Collection of LeetCode questions solved
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/iambyt3z/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iambyt3z/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0854-making-a-large-island](https://github.com/iambyt3z/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/iambyt3z/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
@@ -225,6 +227,7 @@ Collection of LeetCode questions solved
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/iambyt3z/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/iambyt3z/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/iambyt3z/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1129-longest-string-chain](https://github.com/iambyt3z/leetcode-solutions/tree/master/1129-longest-string-chain) |
