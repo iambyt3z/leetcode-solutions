@@ -53,6 +53,7 @@ Collection of LeetCode questions solved
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
+| [3194-find-words-containing-character](https://github.com/iambyt3z/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/iambyt3z/leetcode-solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3227-find-missing-and-repeated-values](https://github.com/iambyt3z/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -290,6 +291,7 @@ Collection of LeetCode questions solved
 | [2456-construct-smallest-number-from-di-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/iambyt3z/leetcode-solutions/tree/master/3194-find-words-containing-character) |
 | [3447-clear-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/3447-clear-digits) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
