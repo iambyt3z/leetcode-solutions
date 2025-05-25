@@ -7,8 +7,7 @@ public:
         int res = 0;
         bool tmp = false;
 
-        for(auto it = cnt.begin(); it != cnt.end(); it++) {
-            string s = it->first;
+        for(auto [s, v]: cnt) {
             string revs = s;
             reverse(revs.begin(), revs.end());
 
