@@ -12,9 +12,6 @@ public:
             string revs = s;
             reverse(revs.begin(), revs.end());
 
-            // if (s != revs && s > revs) 
-            //     continue;
-
             while(
                 (s == revs && cnt[s] >= 2) ||
                 (s != revs && cnt[s] > 0 && cnt.count(revs) && cnt[revs] > 0)
