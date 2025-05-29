@@ -1,6 +1,6 @@
 class Solution {
 public:
-    vector<int> helper(unordered_map<int, vector<int>> &adj, bool findOdd) {
+    pair<vector<int>, int> helper(unordered_map<int, vector<int>> &adj, bool findOdd) {
         int n = adj.size();
         vector<int> vis(n, -1);
         queue<pair<int, int>> q;
@@ -23,6 +23,7 @@ public:
         }
 
         vector<int> res;
+        int max_ele = INT_MIN;
         for(int i=0; i<n; i++) {
             int ri;
             if(vis[i] % 2 == 0)
@@ -31,9 +32,10 @@ public:
                 ri = findOdd * evenCount + (1 - findOdd) * oddCount;
 
             res.push_back(ri);
+            max_ele = max(max_ele, ri);
         }
 
-        return res;
+        return {res, max_ele};
     }
 
     vector<int> maxTargetNodes(vector<vector<int>>& edges1, vector<vector<int>>& edges2) {
@@ -51,9 +53,8 @@ public:
             adj2[v].push_back(u);
         }
 
-        vector<int> v1 = helper(adj1, false);
-        vector<int> v2 = helper(adj2, true);
-        int max_v2 = *max_element(v2.begin(), v2.end());
+        auto [v1, max_v1] = helper(adj1, false);
+        auto [v2, max_v2] = helper(adj2, true);
         vector<int> res;
 
         for(auto vi: v1)
