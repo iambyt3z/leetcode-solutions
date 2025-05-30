@@ -81,6 +81,7 @@ Collection of LeetCode questions solved
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1396-count-servers-that-communicate](https://github.com/iambyt3z/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1558-course-schedule-iv](https://github.com/iambyt3z/leetcode-solutions/tree/master/1558-course-schedule-iv) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/iambyt3z/leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -135,6 +136,7 @@ Collection of LeetCode questions solved
 | [0820-find-eventual-safe-states](https://github.com/iambyt3z/leetcode-solutions/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/iambyt3z/leetcode-solutions/tree/master/1558-course-schedule-iv) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/iambyt3z/leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2438-find-closest-node-to-given-two-nodes](https://github.com/iambyt3z/leetcode-solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/iambyt3z/leetcode-solutions/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 ## Topological Sort
