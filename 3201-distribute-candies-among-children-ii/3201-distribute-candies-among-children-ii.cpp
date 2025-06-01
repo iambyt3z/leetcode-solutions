@@ -1,19 +1,13 @@
 class Solution {
 public:
-    long long f(long long n, long long L) {
-        long long minv = std::max(0LL, n - L);
-        long long maxv = std::min(n, L);
-
-        return std::max(0LL, maxv - minv + 1);
-    }
-
-    long long distributeCandies(int n, int L) {
+    long long distributeCandies(int n, int limit) {
         long long ans = 0;
-
-        for (int i = 0; i <= std::min(n, L); i++)
-            ans += f((long long)(n - i), (long long)L);
-
+        for (int i = 0; i <= min(limit, n); i++) {
+            if (n - i > 2 * limit) {
+                continue;
+            }
+            ans += min(n - i, limit) - max(0, n - i - limit) + 1;
+        }
         return ans;
     }
 };
-
