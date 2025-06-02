@@ -10,6 +10,7 @@ Collection of LeetCode questions solved
 | [0073-set-matrix-zeroes](https://github.com/iambyt3z/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/iambyt3z/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iambyt3z/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0135-candy](https://github.com/iambyt3z/leetcode-solutions/tree/master/0135-candy) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iambyt3z/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/iambyt3z/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -321,6 +322,7 @@ Collection of LeetCode questions solved
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/iambyt3z/leetcode-solutions/tree/master/0135-candy) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iambyt3z/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
