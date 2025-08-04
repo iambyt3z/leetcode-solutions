@@ -19,6 +19,7 @@ Collection of LeetCode questions solved
 | [0854-making-a-large-island](https://github.com/iambyt3z/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/iambyt3z/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/iambyt3z/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/iambyt3z/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1129-longest-string-chain](https://github.com/iambyt3z/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1219-longest-well-performing-interval](https://github.com/iambyt3z/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
 | [1364-tuple-with-same-product](https://github.com/iambyt3z/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
@@ -254,6 +255,7 @@ Collection of LeetCode questions solved
 | [0073-set-matrix-zeroes](https://github.com/iambyt3z/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/iambyt3z/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/iambyt3z/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0940-fruit-into-baskets](https://github.com/iambyt3z/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1129-longest-string-chain](https://github.com/iambyt3z/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [1160-letter-tile-possibilities](https://github.com/iambyt3z/leetcode-solutions/tree/master/1160-letter-tile-possibilities) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/iambyt3z/leetcode-solutions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -398,6 +400,7 @@ Collection of LeetCode questions solved
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/iambyt3z/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iambyt3z/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/iambyt3z/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/2856-count-complete-subarrays-in-an-array) |
