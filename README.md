@@ -253,6 +253,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iambyt3z/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/iambyt3z/leetcode-solutions/tree/master/0146-lru-cache) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/iambyt3z/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/iambyt3z/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0940-fruit-into-baskets](https://github.com/iambyt3z/leetcode-solutions/tree/master/0940-fruit-into-baskets) |
@@ -291,6 +292,7 @@ Collection of LeetCode questions solved
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/iambyt3z/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iambyt3z/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/iambyt3z/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
@@ -320,6 +322,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/iambyt3z/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
+| [0146-lru-cache](https://github.com/iambyt3z/leetcode-solutions/tree/master/0146-lru-cache) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Greedy
 |  |
@@ -429,4 +432,8 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/iambyt3z/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/iambyt3z/leetcode-solutions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
