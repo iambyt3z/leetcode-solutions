@@ -8,8 +8,8 @@ public:
     Node(int key, int val) {
         this->key = key;
         this->val = val;
-        this->prev = nullptr;
         this->next = nullptr;
+        this->prev = nullptr;
     }
 };
 
@@ -21,13 +21,12 @@ private:
     Node* latest;
 
     void insert(Node* node) {
-        Node* latest_prev = this->latest->prev;
-        Node* latest = this->latest;
+        Node* latest_prev = latest->prev;
 
         latest_prev->next = node;
-        latest->prev = node;
-
         node->prev = latest_prev;
+
+        latest->prev = node;
         node->next = latest;
     }
 
@@ -37,6 +36,9 @@ private:
 
         node_prev->next = node_next;
         node_next->prev = node_prev;
+
+        node->prev = nullptr;
+        node->next = nullptr;
     }
 
 public:
@@ -46,40 +48,30 @@ public:
         latest = new Node(0, 0);
 
         oldest->next = latest;
-        latest->prev = oldest;
-    }
-
-    ~LRUCache() {
-        Node* curr = oldest;
-        
-        while(curr != nullptr) {
-            Node* next = curr->next;
-            cache.erase(curr->key);
-            delete curr;
-            curr = next;
-        }
+        latest->prev = oldest; 
     }
     
     int get(int key) {
-        if(cache.find(key) != cache.end()) {
-            Node* node = cache[key];
-            remove(node);
-            insert(node);
-            return node->val;
-        }
+        if(cache.find(key) == cache.end())
+            return -1;
 
-        return -1;
+        Node* node = cache[key];
+        remove(node);
+        insert(node);
+
+        return node->val; 
     }
     
     void put(int key, int value) {
         if(cache.find(key) != cache.end()) {
             Node* node = cache[key];
             remove(node);
+            cache.erase(key);
         }
-        
+
         Node* node = new Node(key, value);
-        insert(node);
         cache[key] = node;
+        insert(node);
 
         if(cache.size() > capacity) {
             Node* lru = oldest->next;
