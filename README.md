@@ -158,6 +158,7 @@ Collection of LeetCode questions solved
 | [1129-longest-string-chain](https://github.com/iambyt3z/leetcode-solutions/tree/master/1129-longest-string-chain) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/iambyt3z/leetcode-solutions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2887-sort-vowels-in-a-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iambyt3z/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/iambyt3z/leetcode-solutions/tree/master/3321-type-of-triangle) |
@@ -312,6 +313,7 @@ Collection of LeetCode questions solved
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iambyt3z/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2393-match-substring-after-replacement](https://github.com/iambyt3z/leetcode-solutions/tree/master/2393-match-substring-after-replacement) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2887-sort-vowels-in-a-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/iambyt3z/leetcode-solutions/tree/master/3194-find-words-containing-character) |
