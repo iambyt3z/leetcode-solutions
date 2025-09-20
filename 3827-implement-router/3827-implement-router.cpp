@@ -1,68 +1,119 @@
-#include <bits/stdc++.h>
-using namespace std;
-
-struct Packet {
-    int source, destination, timestamp;
-    bool operator==(const Packet &o) const {
-        return source == o.source && destination == o.destination && timestamp == o.timestamp;
-    }//oop function overloading
-};
-
-// Custom hash for unordered_set
-struct PacketHash {
-    size_t operator()(const Packet &p) const {
-        return ((size_t)p.source * 1315423911u) ^
-               ((size_t)p.destination * 2654435761u) ^
-               ((size_t)p.timestamp * 97531u);
-    }//It allows you to use an object of PacketHash like a function:
-    //return type is size_t (standard unsigned integer used for hashing).
-   //operator() in PacketHash → lets unordered_set compute a hash for a packet. 
-};
-
 class Router {
 private:
-    int memoryLimit;
-    queue<Packet> q;
-    unordered_set<Packet, PacketHash> seen;
-    unordered_map<int, vector<int>> destTimes;  // sorted timestamps
+    int limit;
+
+    map<tuple<int, int, int>, bool> packets;
+    unordered_map<int, vector<int>> destinations;
+    queue<tuple<int, int, int>> q;
+
+    int getFrontInd(int dest) {
+        int left = 0, right = destinations[dest].size()-1;
+        int res = 0;
+    
+        while(left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if(destinations[dest][mid] == -1) {
+                left = mid+1;
+            } else {
+                res = mid;
+                right = mid-1;
+            }
+        }
+
+        return res;
+    }
+
+    int getLeftBoundInd(int dest, int timestamp) {
+        int left = 0, right = destinations[dest].size()-1;
+        int res = -1;
+    
+        while(left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if(destinations[dest][mid] < timestamp) {
+                left = mid+1;
+            } else {
+                res = mid;
+                right = mid-1;
+            }
+        }
+
+        return res;
+    }
+
+    int getRightBoundInd(int dest, int timestamp) {
+        int left = 0, right = destinations[dest].size()-1;
+        int res = -1;
+    
+        while(left <= right) {
+            int mid = left + (right - left) / 2;
+
+            if(destinations[dest][mid] > timestamp) {
+                right = mid-1;
+            } else {
+                res = mid;
+                left = mid+1;
+            }
+        }
+
+        return res;
+    }
 
 public:
-    Router(int memoryLimit) : memoryLimit(memoryLimit) {}
-
+    Router(int memoryLimit) {
+        this->limit = memoryLimit;
+    }
+    
     bool addPacket(int source, int destination, int timestamp) {
-        Packet p{source, destination, timestamp};
-        if (seen.count(p)) return false;
+        if(packets.count({source, destination, timestamp}) != 0)
+            return false;
 
-        if ((int)q.size() == memoryLimit) forwardPacket();  // auto forward oldest
+        if(q.size() == this->limit) {
+            auto [src, dest, time] = q.front();
+            int ind = getFrontInd(dest);
 
-        q.push(p);
-        seen.insert(p);
-        destTimes[destination].push_back(timestamp);  // append timestamps
+            q.pop();
+            packets.erase({src, dest, time});
+            destinations[dest][ind] = -1;
+        }
+
+        q.push({source, destination, timestamp});
+        packets[{source, destination, timestamp}] = true;
+        destinations[destination].push_back(timestamp);
+
         return true;
     }
-
+    
     vector<int> forwardPacket() {
-        if (q.empty()) return {};  // no packet to forward
+        if(q.size() == 0)
+            return {}; 
 
-        Packet p = q.front(); 
+        auto [src, dest, time] = q.front();
+        int ind = getFrontInd(dest);
+
         q.pop();
-        seen.erase(p);
+        packets.erase({src, dest, time});
+        destinations[dest][ind] = -1;
 
-        // remove timestamp
-        auto &vec = destTimes[p.destination];
-        auto it = lower_bound(vec.begin(), vec.end(), p.timestamp);
-        if (it != vec.end() && *it == p.timestamp) vec.erase(it);
-
-        return {p.source, p.destination, p.timestamp};
+        return {src, dest, time};
     }
-
+    
     int getCount(int destination, int startTime, int endTime) {
-        auto it = destTimes.find(destination);
-        if (it == destTimes.end()) return 0;
+        int left = getLeftBoundInd(destination, startTime);
+        int right = getRightBoundInd(destination, endTime);
 
-        auto &vec = it->second;
-        auto left = lower_bound(vec.begin(), vec.end(), startTime);
-        auto right = upper_bound(vec.begin(), vec.end(), endTime);
-        return right - left;
+        if(left == -1 || right == -1)
+            return 0;
+
+        return (right - left + 1);
     }
 };
+
+/**
+ * Your Router object will be instantiated and called as such:
+ * Router* obj = new Router(memoryLimit);
+ * bool param_1 = obj->addPacket(source,destination,timestamp);
+ * vector<int> param_2 = obj->forwardPacket();
+ * int param_3 = obj->getCount(destination,startTime,endTime);
+ */
