@@ -71,6 +71,7 @@ Collection of LeetCode questions solved
 | [3643-zero-array-transformation-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/iambyt3z/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3827-implement-router](https://github.com/iambyt3z/leetcode-solutions/tree/master/3827-implement-router) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@ Collection of LeetCode questions solved
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/iambyt3z/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3827-implement-router](https://github.com/iambyt3z/leetcode-solutions/tree/master/3827-implement-router) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -282,6 +284,7 @@ Collection of LeetCode questions solved
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/iambyt3z/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3827-implement-router](https://github.com/iambyt3z/leetcode-solutions/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -297,10 +300,12 @@ Collection of LeetCode questions solved
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iambyt3z/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/iambyt3z/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
+| [3827-implement-router](https://github.com/iambyt3z/leetcode-solutions/tree/master/3827-implement-router) |
 ## Ordered Set
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/iambyt3z/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
+| [3827-implement-router](https://github.com/iambyt3z/leetcode-solutions/tree/master/3827-implement-router) |
 ## String
 |  |
 | ------- |
@@ -430,6 +435,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/iambyt3z/leetcode-solutions/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3827-implement-router](https://github.com/iambyt3z/leetcode-solutions/tree/master/3827-implement-router) |
 ## Monotonic Queue
 |  |
 | ------- |
