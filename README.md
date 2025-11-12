@@ -6,6 +6,7 @@ Collection of LeetCode questions solved
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0047-permutations-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/0047-permutations-ii) |
 | [0073-set-matrix-zeroes](https://github.com/iambyt3z/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/iambyt3z/leetcode-solutions/tree/master/0075-sort-colors) |
@@ -222,6 +223,7 @@ Collection of LeetCode questions solved
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/iambyt3z/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
