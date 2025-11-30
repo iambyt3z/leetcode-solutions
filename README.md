@@ -26,6 +26,7 @@ Collection of LeetCode questions solved
 | [1364-tuple-with-same-product](https://github.com/iambyt3z/leetcode-solutions/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/iambyt3z/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iambyt3z/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1590-make-sum-divisible-by-p](https://github.com/iambyt3z/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/iambyt3z/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -270,6 +271,7 @@ Collection of LeetCode questions solved
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/iambyt3z/leetcode-solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/iambyt3z/leetcode-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/iambyt3z/leetcode-solutions/tree/master/1500-count-largest-group) |
+| [1590-make-sum-divisible-by-p](https://github.com/iambyt3z/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/iambyt3z/leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2107-find-unique-binary-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iambyt3z/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -365,6 +367,7 @@ Collection of LeetCode questions solved
 | ------- |
 | [1219-longest-well-performing-interval](https://github.com/iambyt3z/leetcode-solutions/tree/master/1219-longest-well-performing-interval) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iambyt3z/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
+| [1590-make-sum-divisible-by-p](https://github.com/iambyt3z/leetcode-solutions/tree/master/1590-make-sum-divisible-by-p) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2240-intervals-between-identical-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/2240-intervals-between-identical-elements) |
 | [2249-count-the-hidden-sequences](https://github.com/iambyt3z/leetcode-solutions/tree/master/2249-count-the-hidden-sequences) |
