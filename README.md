@@ -36,6 +36,7 @@ Collection of LeetCode questions solved
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/iambyt3z/leetcode-solutions/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2054-two-best-non-overlapping-events](https://github.com/iambyt3z/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2107-find-unique-binary-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2107-find-unique-binary-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/iambyt3z/leetcode-solutions/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2240-intervals-between-identical-elements](https://github.com/iambyt3z/leetcode-solutions/tree/master/2240-intervals-between-identical-elements) |
@@ -160,6 +161,7 @@ Collection of LeetCode questions solved
 | [0368-largest-divisible-subset](https://github.com/iambyt3z/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1129-longest-string-chain](https://github.com/iambyt3z/leetcode-solutions/tree/master/1129-longest-string-chain) |
+| [2054-two-best-non-overlapping-events](https://github.com/iambyt3z/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2355-maximum-consecutive-floors-without-special-floors](https://github.com/iambyt3z/leetcode-solutions/tree/master/2355-maximum-consecutive-floors-without-special-floors) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2887-sort-vowels-in-a-string](https://github.com/iambyt3z/leetcode-solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -218,6 +220,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [1902-car-fleet-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/1902-car-fleet-ii) |
+| [2054-two-best-non-overlapping-events](https://github.com/iambyt3z/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2434-design-a-number-container-system](https://github.com/iambyt3z/leetcode-solutions/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/iambyt3z/leetcode-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -227,6 +230,7 @@ Collection of LeetCode questions solved
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/iambyt3z/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2054-two-best-non-overlapping-events](https://github.com/iambyt3z/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3827-implement-router](https://github.com/iambyt3z/leetcode-solutions/tree/master/3827-implement-router) |
@@ -243,6 +247,7 @@ Collection of LeetCode questions solved
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/iambyt3z/leetcode-solutions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2054-two-best-non-overlapping-events](https://github.com/iambyt3z/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/iambyt3z/leetcode-solutions/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2262-solving-questions-with-brainpower](https://github.com/iambyt3z/leetcode-solutions/tree/master/2262-solving-questions-with-brainpower) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/iambyt3z/leetcode-solutions/tree/master/2415-count-the-number-of-ideal-arrays) |
