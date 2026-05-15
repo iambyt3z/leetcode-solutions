@@ -12,6 +12,7 @@ Collection of LeetCode questions solved
 | [0075-sort-colors](https://github.com/iambyt3z/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/iambyt3z/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0135-candy](https://github.com/iambyt3z/leetcode-solutions/tree/master/0135-candy) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iambyt3z/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0368-largest-divisible-subset](https://github.com/iambyt3z/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions solved
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/iambyt3z/leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/iambyt3z/leetcode-solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2054-two-best-non-overlapping-events](https://github.com/iambyt3z/leetcode-solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
