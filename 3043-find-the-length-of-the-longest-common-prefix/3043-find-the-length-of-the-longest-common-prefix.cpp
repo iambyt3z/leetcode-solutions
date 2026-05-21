@@ -56,7 +56,6 @@ public:
         for(int num: arr2) a2.push_back(to_string(num));
 
         sort(a1.begin(), a1.end());
-        sort(a2.begin(), a2.end());
 
         int res = 0;
         for(int i=0; i<a2.size(); i++) {
@@ -64,17 +63,9 @@ public:
             int l=0, r=a1.size()-1;
             int ri=0; int digit=0;
 
-            // cout << "a2i = " << a2i << endl; 
-
             while(digit < a2i.size() && l != -1) {
-                // cout << "l = " << l << ", r = " << r << endl;
-                // cout << "digit = " << digit << endl; 
-
                 int newL = leftBound(l, r, a1, a2i[digit], digit);
-                // cout << "newL = " << newL << endl;
-
                 int newR = rightBound(l, r, a1, a2i[digit], digit);
-                // cout << "newR = " << newR << endl;
 
                 ri += (newL != -1);
                 l = newL;
