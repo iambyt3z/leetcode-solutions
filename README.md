@@ -76,6 +76,7 @@ Collection of LeetCode questions solved
 | [3643-zero-array-transformation-ii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3643-zero-array-transformation-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/iambyt3z/leetcode-solutions/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
+| [3689-maximum-total-subarray-value-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 | [3827-implement-router](https://github.com/iambyt3z/leetcode-solutions/tree/master/3827-implement-router) |
 ## Depth-First Search
 |  |
@@ -360,6 +361,7 @@ Collection of LeetCode questions solved
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/iambyt3z/leetcode-solutions/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/iambyt3z/leetcode-solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3689-maximum-total-subarray-value-i](https://github.com/iambyt3z/leetcode-solutions/tree/master/3689-maximum-total-subarray-value-i) |
 ## Two Pointers
 |  |
 | ------- |
