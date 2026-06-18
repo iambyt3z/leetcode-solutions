@@ -205,6 +205,7 @@ Collection of LeetCode questions solved
 | [0009-palindrome-number](https://github.com/iambyt3z/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0368-largest-divisible-subset](https://github.com/iambyt3z/leetcode-solutions/tree/master/0368-largest-divisible-subset) |
 | [0805-escape-the-ghosts](https://github.com/iambyt3z/leetcode-solutions/tree/master/0805-escape-the-ghosts) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/iambyt3z/leetcode-solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/iambyt3z/leetcode-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/iambyt3z/leetcode-solutions/tree/master/1477-product-of-the-last-k-numbers) |
 | [1500-count-largest-group](https://github.com/iambyt3z/leetcode-solutions/tree/master/1500-count-largest-group) |
