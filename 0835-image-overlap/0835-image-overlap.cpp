@@ -21,11 +21,8 @@ public:
         for(int c=0; c<combs.size(); c++) {
             auto [dx, dy] = combs[c];
 
-            cout << "d = " << dx << " " << dy << endl;
-
             for(int s=0; s<4; s++) {
                 auto [sx, sy] = signs[s];
-                cout << "s = " << sx << " " << sy << endl;
 
                 int tempRes = 0;
                 for(int x=0; x<n; x++) {
@@ -42,7 +39,6 @@ public:
                     }
                 }
 
-                cout << "tempRes = " << tempRes << endl;
                 res = max(res, tempRes);
             }
         }
