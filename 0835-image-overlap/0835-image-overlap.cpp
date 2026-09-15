@@ -2,13 +2,7 @@ class Solution {
 public:
     int largestOverlap(vector<vector<int>>& img1, vector<vector<int>>& img2) {
         int n = img1.size();
-        vector<pair<int, int>> combs;
-
-        for(int i=0; i<n; i++) {
-            for(int j=0; j<n; j++) {
-                combs.push_back({i, j});
-            }
-        }
+        int res = 0;
 
         vector<pair<int, int>> signs = {
             {1, 1},
@@ -17,29 +11,28 @@ public:
             {-1, -1}
         };
 
-        int res = 0;
-        for(int c=0; c<combs.size(); c++) {
-            auto [dx, dy] = combs[c];
+        for(int dx=0; dx<n; dx++) {
+            for(int dy=0; dy<n; dy++) {
+                for(int s=0; s<4; s++) {
+                    auto [sx, sy] = signs[s];
 
-            for(int s=0; s<4; s++) {
-                auto [sx, sy] = signs[s];
+                    int tempRes = 0;
+                    for(int x=0; x<n; x++) {
+                        for(int y=0; y<n; y++) {
+                            int x1 = x + sx * dx;
+                            int y1 = y + sy * dy;
+                            int x2 = x;
+                            int y2 = y;
 
-                int tempRes = 0;
-                for(int x=0; x<n; x++) {
-                    for(int y=0; y<n; y++) {
-                        int x1 = x + sx * dx;
-                        int y1 = y + sy * dy;
-                        int x2 = x;
-                        int y2 = y;
+                            if (x1 < 0 || x1 >= n || y1 < 0 || y1 >= n)
+                                continue;
 
-                        if (x1 < 0 || x1 >= n || y1 < 0 || y1 >= n)
-                            continue;
-
-                        tempRes += img1[x1][y1] * img2[x2][y2];
+                            tempRes += img1[x1][y1] * img2[x2][y2];
+                        }
                     }
-                }
 
-                res = max(res, tempRes);
+                    res = max(res, tempRes);
+                }
             }
         }
 
