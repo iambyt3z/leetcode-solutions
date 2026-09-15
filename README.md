@@ -18,6 +18,7 @@ Collection of LeetCode questions solved
 | [0416-partition-equal-subset-sum](https://github.com/iambyt3z/leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/iambyt3z/leetcode-solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0805-escape-the-ghosts](https://github.com/iambyt3z/leetcode-solutions/tree/master/0805-escape-the-ghosts) |
+| [0835-image-overlap](https://github.com/iambyt3z/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/iambyt3z/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/iambyt3z/leetcode-solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/iambyt3z/leetcode-solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -125,6 +126,7 @@ Collection of LeetCode questions solved
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/iambyt3z/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/iambyt3z/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0835-image-overlap](https://github.com/iambyt3z/leetcode-solutions/tree/master/0835-image-overlap) |
 | [0854-making-a-large-island](https://github.com/iambyt3z/leetcode-solutions/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/iambyt3z/leetcode-solutions/tree/master/1396-count-servers-that-communicate) |
 | [3227-find-missing-and-repeated-values](https://github.com/iambyt3z/leetcode-solutions/tree/master/3227-find-missing-and-repeated-values) |
