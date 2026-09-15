@@ -21,13 +21,10 @@ public:
                         for(int y=0; y<n; y++) {
                             int x1 = x + sx * dx;
                             int y1 = y + sy * dy;
-                            int x2 = x;
-                            int y2 = y;
+                            bool check = (x1 >= 0 && x1 < n && y1 >=0 && y1 < n);
 
-                            if (x1 < 0 || x1 >= n || y1 < 0 || y1 >= n)
-                                continue;
-
-                            tempRes += img1[x1][y1] * img2[x2][y2];
+                            if (check)
+                                tempRes += ( img1[x1][y1] * img2[x][y] );
                         }
                     }
 
